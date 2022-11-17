@@ -1,3 +1,5 @@
+![brightness_gauge](https://i.imgur.com/K0cpKqK.png)
+
 # What?
 The script provides a global_brightness variable, which can be controlled
 via the HA-UI or a remote, to simultaniously dim many lights using user-defined
